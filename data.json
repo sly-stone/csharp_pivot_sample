@@ -1,0 +1,625 @@
+[
+  {
+    "AGE_KBN": "000-004",
+    "AGE_KBN_ORDERBY": 0.0,
+    "AGE_KBN_NAME": "000-004歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 37201130
+  },
+  {
+    "AGE_KBN": "000-004",
+    "AGE_KBN_ORDERBY": 0.0,
+    "AGE_KBN_NAME": "000-004歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 8371350
+  },
+  {
+    "AGE_KBN": "000-004",
+    "AGE_KBN_ORDERBY": 0.0,
+    "AGE_KBN_NAME": "000-004歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 11763980
+  },
+  {
+    "AGE_KBN": "000-004",
+    "AGE_KBN_ORDERBY": 0.0,
+    "AGE_KBN_NAME": "000-004歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 3048520
+  },
+  {
+    "AGE_KBN": "000-004",
+    "AGE_KBN_ORDERBY": 0.0,
+    "AGE_KBN_NAME": "000-004歳",
+    "HEADER": 3,
+    "MED_EXPENSE_SUM": 12779930
+  },
+  {
+    "AGE_KBN": "000-004",
+    "AGE_KBN_ORDERBY": 0.0,
+    "AGE_KBN_NAME": "000-004歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 1237350
+  },
+  {
+    "AGE_KBN": "005-009",
+    "AGE_KBN_ORDERBY": 5.0,
+    "AGE_KBN_NAME": "005-009歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 20997060
+  },
+  {
+    "AGE_KBN": "005-009",
+    "AGE_KBN_ORDERBY": 5.0,
+    "AGE_KBN_NAME": "005-009歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 247770
+  },
+  {
+    "AGE_KBN": "005-009",
+    "AGE_KBN_ORDERBY": 5.0,
+    "AGE_KBN_NAME": "005-009歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 12184870
+  },
+  {
+    "AGE_KBN": "005-009",
+    "AGE_KBN_ORDERBY": 5.0,
+    "AGE_KBN_NAME": "005-009歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 4221740
+  },
+  {
+    "AGE_KBN": "005-009",
+    "AGE_KBN_ORDERBY": 5.0,
+    "AGE_KBN_NAME": "005-009歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 4342680
+  },
+  {
+    "AGE_KBN": "010-014",
+    "AGE_KBN_ORDERBY": 10.0,
+    "AGE_KBN_NAME": "010-014歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 30219940
+  },
+  {
+    "AGE_KBN": "010-014",
+    "AGE_KBN_ORDERBY": 10.0,
+    "AGE_KBN_NAME": "010-014歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 637700
+  },
+  {
+    "AGE_KBN": "010-014",
+    "AGE_KBN_ORDERBY": 10.0,
+    "AGE_KBN_NAME": "010-014歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 18906880
+  },
+  {
+    "AGE_KBN": "010-014",
+    "AGE_KBN_ORDERBY": 10.0,
+    "AGE_KBN_NAME": "010-014歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 4983830
+  },
+  {
+    "AGE_KBN": "010-014",
+    "AGE_KBN_ORDERBY": 10.0,
+    "AGE_KBN_NAME": "010-014歳",
+    "HEADER": 3,
+    "MED_EXPENSE_SUM": 1917560
+  },
+  {
+    "AGE_KBN": "010-014",
+    "AGE_KBN_ORDERBY": 10.0,
+    "AGE_KBN_NAME": "010-014歳",
+    "HEADER": 4,
+    "MED_EXPENSE_SUM": 151020
+  },
+  {
+    "AGE_KBN": "010-014",
+    "AGE_KBN_ORDERBY": 10.0,
+    "AGE_KBN_NAME": "010-014歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 3622950
+  },
+  {
+    "AGE_KBN": "015-019",
+    "AGE_KBN_ORDERBY": 15.0,
+    "AGE_KBN_NAME": "015-019歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 15190210
+  },
+  {
+    "AGE_KBN": "015-019",
+    "AGE_KBN_ORDERBY": 15.0,
+    "AGE_KBN_NAME": "015-019歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 755300
+  },
+  {
+    "AGE_KBN": "015-019",
+    "AGE_KBN_ORDERBY": 15.0,
+    "AGE_KBN_NAME": "015-019歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 7449840
+  },
+  {
+    "AGE_KBN": "015-019",
+    "AGE_KBN_ORDERBY": 15.0,
+    "AGE_KBN_NAME": "015-019歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 2859790
+  },
+  {
+    "AGE_KBN": "015-019",
+    "AGE_KBN_ORDERBY": 15.0,
+    "AGE_KBN_NAME": "015-019歳",
+    "HEADER": 3,
+    "MED_EXPENSE_SUM": 2085780
+  },
+  {
+    "AGE_KBN": "015-019",
+    "AGE_KBN_ORDERBY": 15.0,
+    "AGE_KBN_NAME": "015-019歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 2039500
+  },
+  {
+    "AGE_KBN": "020-024",
+    "AGE_KBN_ORDERBY": 20.0,
+    "AGE_KBN_NAME": "020-024歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 23594090
+  },
+  {
+    "AGE_KBN": "020-024",
+    "AGE_KBN_ORDERBY": 20.0,
+    "AGE_KBN_NAME": "020-024歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 2003340
+  },
+  {
+    "AGE_KBN": "020-024",
+    "AGE_KBN_ORDERBY": 20.0,
+    "AGE_KBN_NAME": "020-024歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 7813970
+  },
+  {
+    "AGE_KBN": "020-024",
+    "AGE_KBN_ORDERBY": 20.0,
+    "AGE_KBN_NAME": "020-024歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 2489490
+  },
+  {
+    "AGE_KBN": "020-024",
+    "AGE_KBN_ORDERBY": 20.0,
+    "AGE_KBN_NAME": "020-024歳",
+    "HEADER": 3,
+    "MED_EXPENSE_SUM": 8396460
+  },
+  {
+    "AGE_KBN": "020-024",
+    "AGE_KBN_ORDERBY": 20.0,
+    "AGE_KBN_NAME": "020-024歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 2890830
+  },
+  {
+    "AGE_KBN": "025-029",
+    "AGE_KBN_ORDERBY": 25.0,
+    "AGE_KBN_NAME": "025-029歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 24566770
+  },
+  {
+    "AGE_KBN": "025-029",
+    "AGE_KBN_ORDERBY": 25.0,
+    "AGE_KBN_NAME": "025-029歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 3424490
+  },
+  {
+    "AGE_KBN": "025-029",
+    "AGE_KBN_ORDERBY": 25.0,
+    "AGE_KBN_NAME": "025-029歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 8347010
+  },
+  {
+    "AGE_KBN": "025-029",
+    "AGE_KBN_ORDERBY": 25.0,
+    "AGE_KBN_NAME": "025-029歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 3705790
+  },
+  {
+    "AGE_KBN": "025-029",
+    "AGE_KBN_ORDERBY": 25.0,
+    "AGE_KBN_NAME": "025-029歳",
+    "HEADER": 3,
+    "MED_EXPENSE_SUM": 4329660
+  },
+  {
+    "AGE_KBN": "025-029",
+    "AGE_KBN_ORDERBY": 25.0,
+    "AGE_KBN_NAME": "025-029歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 4759820
+  },
+  {
+    "AGE_KBN": "030-034",
+    "AGE_KBN_ORDERBY": 30.0,
+    "AGE_KBN_NAME": "030-034歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 27578350
+  },
+  {
+    "AGE_KBN": "030-034",
+    "AGE_KBN_ORDERBY": 30.0,
+    "AGE_KBN_NAME": "030-034歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 1671090
+  },
+  {
+    "AGE_KBN": "030-034",
+    "AGE_KBN_ORDERBY": 30.0,
+    "AGE_KBN_NAME": "030-034歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 8744730
+  },
+  {
+    "AGE_KBN": "030-034",
+    "AGE_KBN_ORDERBY": 30.0,
+    "AGE_KBN_NAME": "030-034歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 6819450
+  },
+  {
+    "AGE_KBN": "030-034",
+    "AGE_KBN_ORDERBY": 30.0,
+    "AGE_KBN_NAME": "030-034歳",
+    "HEADER": 3,
+    "MED_EXPENSE_SUM": 5345020
+  },
+  {
+    "AGE_KBN": "030-034",
+    "AGE_KBN_ORDERBY": 30.0,
+    "AGE_KBN_NAME": "030-034歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 4998060
+  },
+  {
+    "AGE_KBN": "035-039",
+    "AGE_KBN_ORDERBY": 35.0,
+    "AGE_KBN_NAME": "035-039歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 25991190
+  },
+  {
+    "AGE_KBN": "035-039",
+    "AGE_KBN_ORDERBY": 35.0,
+    "AGE_KBN_NAME": "035-039歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 763440
+  },
+  {
+    "AGE_KBN": "035-039",
+    "AGE_KBN_ORDERBY": 35.0,
+    "AGE_KBN_NAME": "035-039歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 10880280
+  },
+  {
+    "AGE_KBN": "035-039",
+    "AGE_KBN_ORDERBY": 35.0,
+    "AGE_KBN_NAME": "035-039歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 2464890
+  },
+  {
+    "AGE_KBN": "035-039",
+    "AGE_KBN_ORDERBY": 35.0,
+    "AGE_KBN_NAME": "035-039歳",
+    "HEADER": 3,
+    "MED_EXPENSE_SUM": 7438480
+  },
+  {
+    "AGE_KBN": "035-039",
+    "AGE_KBN_ORDERBY": 35.0,
+    "AGE_KBN_NAME": "035-039歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 4444100
+  },
+  {
+    "AGE_KBN": "040-044",
+    "AGE_KBN_ORDERBY": 40.0,
+    "AGE_KBN_NAME": "040-044歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 31583500
+  },
+  {
+    "AGE_KBN": "040-044",
+    "AGE_KBN_ORDERBY": 40.0,
+    "AGE_KBN_NAME": "040-044歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 1893010
+  },
+  {
+    "AGE_KBN": "040-044",
+    "AGE_KBN_ORDERBY": 40.0,
+    "AGE_KBN_NAME": "040-044歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 12884830
+  },
+  {
+    "AGE_KBN": "040-044",
+    "AGE_KBN_ORDERBY": 40.0,
+    "AGE_KBN_NAME": "040-044歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 4749070
+  },
+  {
+    "AGE_KBN": "040-044",
+    "AGE_KBN_ORDERBY": 40.0,
+    "AGE_KBN_NAME": "040-044歳",
+    "HEADER": 3,
+    "MED_EXPENSE_SUM": 7068630
+  },
+  {
+    "AGE_KBN": "040-044",
+    "AGE_KBN_ORDERBY": 40.0,
+    "AGE_KBN_NAME": "040-044歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 4987960
+  },
+  {
+    "AGE_KBN": "045-049",
+    "AGE_KBN_ORDERBY": 45.0,
+    "AGE_KBN_NAME": "045-049歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 39681160
+  },
+  {
+    "AGE_KBN": "045-049",
+    "AGE_KBN_ORDERBY": 45.0,
+    "AGE_KBN_NAME": "045-049歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 4038700
+  },
+  {
+    "AGE_KBN": "045-049",
+    "AGE_KBN_ORDERBY": 45.0,
+    "AGE_KBN_NAME": "045-049歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 17005930
+  },
+  {
+    "AGE_KBN": "045-049",
+    "AGE_KBN_ORDERBY": 45.0,
+    "AGE_KBN_NAME": "045-049歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 6583430
+  },
+  {
+    "AGE_KBN": "045-049",
+    "AGE_KBN_ORDERBY": 45.0,
+    "AGE_KBN_NAME": "045-049歳",
+    "HEADER": 3,
+    "MED_EXPENSE_SUM": 5644730
+  },
+  {
+    "AGE_KBN": "045-049",
+    "AGE_KBN_ORDERBY": 45.0,
+    "AGE_KBN_NAME": "045-049歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 6408370
+  },
+  {
+    "AGE_KBN": "050-054",
+    "AGE_KBN_ORDERBY": 50.0,
+    "AGE_KBN_NAME": "050-054歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 55998170
+  },
+  {
+    "AGE_KBN": "050-054",
+    "AGE_KBN_ORDERBY": 50.0,
+    "AGE_KBN_NAME": "050-054歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 3821400
+  },
+  {
+    "AGE_KBN": "050-054",
+    "AGE_KBN_ORDERBY": 50.0,
+    "AGE_KBN_NAME": "050-054歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 26345520
+  },
+  {
+    "AGE_KBN": "050-054",
+    "AGE_KBN_ORDERBY": 50.0,
+    "AGE_KBN_NAME": "050-054歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 7172300
+  },
+  {
+    "AGE_KBN": "050-054",
+    "AGE_KBN_ORDERBY": 50.0,
+    "AGE_KBN_NAME": "050-054歳",
+    "HEADER": 3,
+    "MED_EXPENSE_SUM": 12340600
+  },
+  {
+    "AGE_KBN": "050-054",
+    "AGE_KBN_ORDERBY": 50.0,
+    "AGE_KBN_NAME": "050-054歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 6318350
+  },
+  {
+    "AGE_KBN": "055-059",
+    "AGE_KBN_ORDERBY": 55.0,
+    "AGE_KBN_NAME": "055-059歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 61047140
+  },
+  {
+    "AGE_KBN": "055-059",
+    "AGE_KBN_ORDERBY": 55.0,
+    "AGE_KBN_NAME": "055-059歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 6934710
+  },
+  {
+    "AGE_KBN": "055-059",
+    "AGE_KBN_ORDERBY": 55.0,
+    "AGE_KBN_NAME": "055-059歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 24345370
+  },
+  {
+    "AGE_KBN": "055-059",
+    "AGE_KBN_ORDERBY": 55.0,
+    "AGE_KBN_NAME": "055-059歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 9692740
+  },
+  {
+    "AGE_KBN": "055-059",
+    "AGE_KBN_ORDERBY": 55.0,
+    "AGE_KBN_NAME": "055-059歳",
+    "HEADER": 3,
+    "MED_EXPENSE_SUM": 15078320
+  },
+  {
+    "AGE_KBN": "055-059",
+    "AGE_KBN_ORDERBY": 55.0,
+    "AGE_KBN_NAME": "055-059歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 4996000
+  },
+  {
+    "AGE_KBN": "060-064",
+    "AGE_KBN_ORDERBY": 60.0,
+    "AGE_KBN_NAME": "060-064歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 66791110
+  },
+  {
+    "AGE_KBN": "060-064",
+    "AGE_KBN_ORDERBY": 60.0,
+    "AGE_KBN_NAME": "060-064歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 15146700
+  },
+  {
+    "AGE_KBN": "060-064",
+    "AGE_KBN_ORDERBY": 60.0,
+    "AGE_KBN_NAME": "060-064歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 22575380
+  },
+  {
+    "AGE_KBN": "060-064",
+    "AGE_KBN_ORDERBY": 60.0,
+    "AGE_KBN_NAME": "060-064歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 6923810
+  },
+  {
+    "AGE_KBN": "060-064",
+    "AGE_KBN_ORDERBY": 60.0,
+    "AGE_KBN_NAME": "060-064歳",
+    "HEADER": 3,
+    "MED_EXPENSE_SUM": 18040230
+  },
+  {
+    "AGE_KBN": "060-064",
+    "AGE_KBN_ORDERBY": 60.0,
+    "AGE_KBN_NAME": "060-064歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 4104990
+  },
+  {
+    "AGE_KBN": "065-069",
+    "AGE_KBN_ORDERBY": 65.0,
+    "AGE_KBN_NAME": "065-069歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 22834020
+  },
+  {
+    "AGE_KBN": "065-069",
+    "AGE_KBN_ORDERBY": 65.0,
+    "AGE_KBN_NAME": "065-069歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 1253180
+  },
+  {
+    "AGE_KBN": "065-069",
+    "AGE_KBN_ORDERBY": 65.0,
+    "AGE_KBN_NAME": "065-069歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 12133450
+  },
+  {
+    "AGE_KBN": "065-069",
+    "AGE_KBN_ORDERBY": 65.0,
+    "AGE_KBN_NAME": "065-069歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 3130930
+  },
+  {
+    "AGE_KBN": "065-069",
+    "AGE_KBN_ORDERBY": 65.0,
+    "AGE_KBN_NAME": "065-069歳",
+    "HEADER": 3,
+    "MED_EXPENSE_SUM": 4343820
+  },
+  {
+    "AGE_KBN": "065-069",
+    "AGE_KBN_ORDERBY": 65.0,
+    "AGE_KBN_NAME": "065-069歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 1972640
+  },
+  {
+    "AGE_KBN": "070-074",
+    "AGE_KBN_ORDERBY": 70.0,
+    "AGE_KBN_NAME": "070-074歳",
+    "HEADER": null,
+    "MED_EXPENSE_SUM": 7052970
+  },
+  {
+    "AGE_KBN": "070-074",
+    "AGE_KBN_ORDERBY": 70.0,
+    "AGE_KBN_NAME": "070-074歳",
+    "HEADER": 0,
+    "MED_EXPENSE_SUM": 3074640
+  },
+  {
+    "AGE_KBN": "070-074",
+    "AGE_KBN_ORDERBY": 70.0,
+    "AGE_KBN_NAME": "070-074歳",
+    "HEADER": 1,
+    "MED_EXPENSE_SUM": 2264170
+  },
+  {
+    "AGE_KBN": "070-074",
+    "AGE_KBN_ORDERBY": 70.0,
+    "AGE_KBN_NAME": "070-074歳",
+    "HEADER": 2,
+    "MED_EXPENSE_SUM": 1019100
+  },
+  {
+    "AGE_KBN": "070-074",
+    "AGE_KBN_ORDERBY": 70.0,
+    "AGE_KBN_NAME": "070-074歳",
+    "HEADER": 5,
+    "MED_EXPENSE_SUM": 695060
+  }
+]
